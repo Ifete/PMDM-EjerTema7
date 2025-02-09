@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ejer7_1" android:title="Ejercicio 7.1 y 7.2"/>
+    <item android:id="@+id/ejer7_3" android:title="Ejercicio 7.3"/>
+    <item android:id="@+id/ejer7_5" android:title="Ejercicio 7.5"/>
+    <item android:id="@+id/ejer7_6" android:title="Ejercicio 7.6"/>
+</menu>

@@ -5,11 +5,12 @@
 
     <SeekBar
         android:id="@+id/seekBar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:max="500"
+        android:layout_width="289dp"
+        android:layout_height="49dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="50dp"/>
+        android:layout_marginTop="50dp"
+        android:min="0"
+        android:max="500" />
 
     <Button
         android:id="@+id/btnToastPosition"

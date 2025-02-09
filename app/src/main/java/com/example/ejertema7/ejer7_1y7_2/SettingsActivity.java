@@ -1,8 +1,10 @@
-package com.example.ejertema7;
+package com.example.ejertema7.ejer7_1y7_2;
 
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.preference.PreferenceFragmentCompat;
+
+import com.example.ejertema7.R;
 
 public class SettingsActivity extends AppCompatActivity {
 
